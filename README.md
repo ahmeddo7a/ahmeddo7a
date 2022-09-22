@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🔭 I’m currently working on Movies Application Project
+- 🌱 I’m currently learning Flutter and Web Scrapping
+
 
 <!--
 **ahmeddo7a/ahmeddo7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Link to [site name][https://google.com]
 -->

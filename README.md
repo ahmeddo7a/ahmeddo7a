@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Flutter, and WebScrapping. 
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-developer-devops-flat-flat-juicy-fish-2.png" align="right" width="25%"/>
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-developer-devops-flat-flat-juicy-fish-2.png" align="right" />
 - ⚡ I specifically build mobile apps using **Flutter**
 - 🔭 I’m currently working on Movies Application Project
 - 🌱 I’m currently learning Flutter and Web Scrapping

@@ -2,7 +2,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 - 🔭 I’m currently working on Movies Application Project
 - 🌱 I’m currently learning Flutter and Web Scrapping
-- 📫 How to reach me: Link to [AhmedMamdouh@gmail.com][https://ahmedholdogmail.com]
+- 📫 How to reach me: ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 <!--

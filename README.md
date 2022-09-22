@@ -1,5 +1,8 @@
+I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Flutter, and WebScrapping. 
+
 - 🔭 I’m currently working on Movies Application Project
 - 🌱 I’m currently learning Flutter and Web Scrapping
+- 📫 How to reach me: Link to [AhmedMamdouh@gmail.com][https://ahmedholdogmail.com]
 
 
 <!--

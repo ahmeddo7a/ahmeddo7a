@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/64/000000/external-software-developer-digital-asset-and-intangible-product-parzival-1997-flat-parzival-1997.png" height="65px"/></a>
+<a href="#"><img width="65%" height="auto" src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/64/000000/external-software-developer-digital-asset-and-intangible-product-parzival-1997-flat-parzival-1997.png" height="65px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Mamdouh</h1>
 

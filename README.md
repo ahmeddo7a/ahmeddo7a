@@ -1,10 +1,10 @@
-<a href="#"><img width="65%" height="auto" src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/64/000000/external-software-developer-digital-asset-and-intangible-product-parzival-1997-flat-parzival-1997.png" height="65px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Mamdouh</h1>
 
 ## 🙋‍♂️ About Me
 I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Flutter, and WebScrapping. 
-  
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-developer-devops-flat-flat-juicy-fish-2.png" align="right" width="25%"/>
 - ⚡ I specifically build mobile apps using **Flutter**
 - 🔭 I’m currently working on Movies Application Project
 - 🌱 I’m currently learning Flutter and Web Scrapping
